@@ -7,7 +7,7 @@ const gigdaten = [
      adresse: "/",
      date: "2026-12-05",
      entry: " 16:00",
-     showtime: "TBA",
+     showtime: " TBA",
      info: "frei Spende",
      ticket: true,
      ticketLink: "https://mariaimgfaengnis.netlify.app/",
